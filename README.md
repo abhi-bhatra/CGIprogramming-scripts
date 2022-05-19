@@ -1,4 +1,7 @@
 # Python CGI Programming
+Python CGI Programmaning is the web app created using Python as backend and HTML-CSS as Frontend. We used Apache2 server to host the web app. 
+The App is created on Virtual Machine.
+
 
 ### Steps to create
 
